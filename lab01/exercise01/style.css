@@ -17,6 +17,7 @@ Add some style blocks below this line to style the card.
 section h2, section p, section button{
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 20px
 
 }
 img{
